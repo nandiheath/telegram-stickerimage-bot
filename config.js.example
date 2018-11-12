@@ -3,6 +3,10 @@ module.exports = {
     token: '1234567890:YOURTOKENHERE',
     username: 'MyAwesomeStickerBot',
 
+    // api host
+    api_host: '',
+    // api token for uploading the packs to server
+    api_token: ''
     // imagemagick convert path, defaults to 'convert'
     im_convert_path: 'convert',
 
